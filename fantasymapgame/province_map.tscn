@@ -7,9 +7,9 @@
 [node name="ProvinceMap" type="Node2D"]
 script = ExtResource("1_e81pi")
 
-[node name="map_sprite" type="Sprite2D" parent="."]
+[node name="MapSprite" type="Sprite2D" parent="."]
 texture = ExtResource("2_4o356")
 
-[node name="mask_sprite" type="Sprite2D" parent="."]
+[node name="ProvinceMask" type="Sprite2D" parent="."]
 visible = false
 texture = ExtResource("3_in6wn")
